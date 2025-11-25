@@ -1,5 +1,5 @@
 # Scorton Hackathon — Cybersecurity Challenges
-Analyse Web • Comportements Applicatifs • OSINT & Threat Intelligence
+Analyse Web • Comportements Applicatifs A.K.A Vibe Night• OSINT & Threat Intelligence
 
 Bienvenue dans le **Scorton Cybersecurity Hackathon**, un ensemble de trois challenges techniques destinés à évaluer et développer vos compétences en analyse de sécurité, investigation, collecte de signaux, et compréhension des menaces modernes.
 
