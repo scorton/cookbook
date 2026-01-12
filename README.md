@@ -1,3 +1,11 @@
+# Équipe
+
+- Jennifer ODDE jodde@student.42.fr
+- Kseniia OSIPOVA kosipova@student.42.fr
+- Monot Antoine amonot@student.42.fr
+- Ramzy BOUZIANE rabouzia@student.42.fr
+- Romain Alvarez roalvare@student.42.fr
+
 # Scorton Hackathon — Cybersecurity Challenges
 Analyse Web • Comportements Applicatifs A.K.A Vibe Night• OSINT & Threat Intelligence
 
